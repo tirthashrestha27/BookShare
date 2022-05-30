@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818505939079",
+    "firebase_url": "https://bookchain-a8ed1.firebaseio.com",
+    "project_id": "bookchain-a8ed1",
+    "storage_bucket": "bookchain-a8ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818505939079:android:b0f7bea1b61de5fcaf2022",
+        "android_client_info": {
+          "package_name": "com.suffer.bool_chain_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818505939079-qv2isgblql1rhseme45j81gs0debuh8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_j-NFgqahO4avzjMIlZLzs-8ayRI-yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818505939079-qv2isgblql1rhseme45j81gs0debuh8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
